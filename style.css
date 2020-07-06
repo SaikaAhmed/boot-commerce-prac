@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+/* nav */
+.container {
+    margin-bottom: 100px;
+}
+#navbarNav {
+    margin-bottom: auto;
+}
+/* end nav */
+
+/* first part */
+.buy-key {
+    margin: 5%%;
+    padding: 10px 20px;
+    margin-left: auto;    
+    border-radius: 8%;
+    background-color: black;
+    color: white;
+    border: none;
+}
+/* end */
+
+/* phone start */
+.card {
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card p {
+    color: gray;
+}
+.card-footer {
+    border-top: none;
+    background-color: white;
+}
+/* end */
